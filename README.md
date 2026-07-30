@@ -2,12 +2,12 @@
 
 Welcome to my LeetCode repository!
 
-This repository contains my accepted LeetCode solutions written primarily in **Python**. The solutions are organized by topic and difficulty to make revision and interview preparation easier.
+This repository contains my accepted LeetCode solutions written in **Python**. The solutions are organized by topic and difficulty to make revision and interview preparation easier.
 
-## Goals
-- Solve 500+ LeetCode problems
+## Helpful for you if these are topics of your interest 
+- Solve 200++ LeetCode problems
 - Master Data Structures & Algorithms
-- Prepare for Software Engineering interviews
+- Preparing for Software Engineering interviews
 - Write clean and optimized solutions
 
 ## Topics Covered
